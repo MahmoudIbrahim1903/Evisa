@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AirReservation/bin/Debug/net6.0
+/AirReservation/obj
+/AirReservation.Reports/bin/Debug/net6.0
+/AirReservation.Reports/obj

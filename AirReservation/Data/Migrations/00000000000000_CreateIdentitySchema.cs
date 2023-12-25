@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata;
+﻿/*
+using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using System;
 
@@ -218,3 +219,4 @@ namespace AirReservation.Data.Migrations
         }
     }
 }
+*/

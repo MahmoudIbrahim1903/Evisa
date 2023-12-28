@@ -408,7 +408,7 @@
             <Value>Evisa</Value>
             <Sizing>FitProportional</Sizing>
             <Left>6.20056in</Left>
-            <Height>0.8in</Height>
+            <Height>0.78944in</Height>
             <Width>0.78832in</Width>
             <ZIndex>6</ZIndex>
             <Style>
@@ -1223,7 +1223,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox7</rd:DefaultName>
-                <Top>0.07083in</Top>
+                <Top>0.32558in</Top>
                 <Height>0.375in</Height>
                 <Width>3.77555in</Width>
                 <Style>
@@ -1239,7 +1239,8 @@
               <Image Name="Image3">
                 <Source>Embedded</Source>
                 <Value>Evisa</Value>
-                <Left>6.06454in</Left>
+                <Top>0.025in</Top>
+                <Left>6.06097in</Left>
                 <Height>0.91667in</Height>
                 <Width>0.92708in</Width>
                 <ZIndex>1</ZIndex>
@@ -1272,7 +1273,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox8</rd:DefaultName>
-                <Top>0.65139in</Top>
+                <Top>0.90614in</Top>
                 <Height>0.25in</Height>
                 <Width>1.79292in</Width>
                 <ZIndex>2</ZIndex>
@@ -1310,7 +1311,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox8</rd:DefaultName>
-                <Top>0.74861in</Top>
+                <Top>1.00336in</Top>
                 <Left>2.00346in</Left>
                 <Height>0.15625in</Height>
                 <Width>1.77209in</Width>
@@ -1327,7 +1328,7 @@
                 </Style>
               </Textbox>
               <Line Name="Line10">
-                <Top>0.96042in</Top>
+                <Top>1.21517in</Top>
                 <Left>0.01305in</Left>
                 <Height>0in</Height>
                 <Width>6.98694in</Width>
@@ -1361,7 +1362,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox14</rd:DefaultName>
-                <Top>1.14167in</Top>
+                <Top>1.32142in</Top>
                 <Height>0.25in</Height>
                 <Width>1.15625in</Width>
                 <ZIndex>5</ZIndex>
@@ -1397,7 +1398,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox14</rd:DefaultName>
-                <Top>1.14167in</Top>
+                <Top>1.32142in</Top>
                 <Left>2.00346in</Left>
                 <Height>0.25in</Height>
                 <Width>1.15625in</Width>
@@ -1434,7 +1435,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox14</rd:DefaultName>
-                <Top>1.14167in</Top>
+                <Top>1.32142in</Top>
                 <Left>3.91977in</Left>
                 <Height>0.25in</Height>
                 <Width>0.90442in</Width>
@@ -1471,7 +1472,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox14</rd:DefaultName>
-                <Top>1.14167in</Top>
+                <Top>1.32142in</Top>
                 <Left>5.51871in</Left>
                 <Height>0.25in</Height>
                 <Width>1.35684in</Width>
@@ -1508,7 +1509,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox19</rd:DefaultName>
-                <Top>1.46111in</Top>
+                <Top>1.59086in</Top>
                 <Height>0.25in</Height>
                 <Width>1.87463in</Width>
                 <ZIndex>9</ZIndex>
@@ -1543,7 +1544,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox20</rd:DefaultName>
-                <Top>1.46567in</Top>
+                <Top>1.59542in</Top>
                 <Left>1.99116in</Left>
                 <Height>0.25in</Height>
                 <Width>1in</Width>
@@ -1579,7 +1580,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox20</rd:DefaultName>
-                <Top>1.45938in</Top>
+                <Top>1.58913in</Top>
                 <Left>3.92081in</Left>
                 <Height>0.25in</Height>
                 <Width>1in</Width>
@@ -1615,7 +1616,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox20</rd:DefaultName>
-                <Top>1.46567in</Top>
+                <Top>1.59542in</Top>
                 <Left>5.51871in</Left>
                 <Height>0.25in</Height>
                 <Width>1.35684in</Width>
@@ -1651,7 +1652,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox14</rd:DefaultName>
-                <Top>1.95988in</Top>
+                <Top>2.02713in</Top>
                 <Height>0.25in</Height>
                 <Width>1.15625in</Width>
                 <ZIndex>13</ZIndex>
@@ -1687,7 +1688,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox14</rd:DefaultName>
-                <Top>1.95988in</Top>
+                <Top>2.02713in</Top>
                 <Left>1.999in</Left>
                 <Height>0.25in</Height>
                 <Width>1.15625in</Width>
@@ -1724,7 +1725,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox14</rd:DefaultName>
-                <Top>1.95988in</Top>
+                <Top>2.02713in</Top>
                 <Left>5.51425in</Left>
                 <Height>0.25in</Height>
                 <Width>1.35684in</Width>
@@ -1761,7 +1762,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox19</rd:DefaultName>
-                <Top>2.27932in</Top>
+                <Top>2.28407in</Top>
                 <Height>0.25in</Height>
                 <Width>1.87463in</Width>
                 <ZIndex>16</ZIndex>
@@ -1796,7 +1797,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox20</rd:DefaultName>
-                <Top>2.28388in</Top>
+                <Top>2.28863in</Top>
                 <Left>1.9867in</Left>
                 <Height>0.25in</Height>
                 <Width>1in</Width>
@@ -1832,7 +1833,7 @@
                   </Paragraph>
                 </Paragraphs>
                 <rd:DefaultName>Textbox20</rd:DefaultName>
-                <Top>2.28388in</Top>
+                <Top>2.28863in</Top>
                 <Left>5.51425in</Left>
                 <Height>0.25in</Height>
                 <Width>1.35684in</Width>
@@ -1910,7 +1911,1496 @@
                     <Top>0.10857in</Top>
                     <Left>0.46379in</Left>
                     <Height>0.34645in</Height>
-                    <Width>3.98691in</Width>
+                    <Width>5.16241in</Width>
+                    <ZIndex>1</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox6">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>FLIGHT</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#8793bf</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox6</rd:DefaultName>
+                    <Top>0.71541in</Top>
+                    <Left>0.075in</Left>
+                    <Height>0.1875in</Height>
+                    <Width>0.49211in</Width>
+                    <ZIndex>2</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox35">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>DEPARTURE</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#8793bf</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox6</rd:DefaultName>
+                    <Top>0.71541in</Top>
+                    <Left>1.62495in</Left>
+                    <Height>0.1875in</Height>
+                    <Width>0.99211in</Width>
+                    <ZIndex>3</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox39">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>ARRIVAL</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#8793bf</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox6</rd:DefaultName>
+                    <Top>0.71541in</Top>
+                    <Left>3.48311in</Left>
+                    <Height>0.1875in</Height>
+                    <Width>0.99211in</Width>
+                    <ZIndex>4</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox41">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>FARE</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#8793bf</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox6</rd:DefaultName>
+                    <Top>0.71541in</Top>
+                    <Left>5.51425in</Left>
+                    <Height>0.1875in</Height>
+                    <Width>0.99211in</Width>
+                    <ZIndex>5</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Line Name="Line11">
+                    <Top>0.91007in</Top>
+                    <Left>0.00653in</Left>
+                    <Height>0in</Height>
+                    <Width>6.98694in</Width>
+                    <ZIndex>6</ZIndex>
+                    <Style>
+                      <Border>
+                        <Color>LightGrey</Color>
+                        <Style>Solid</Style>
+                        <Width>1.1pt</Width>
+                      </Border>
+                    </Style>
+                  </Line>
+                  <Textbox Name="Textbox43">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>RO-102</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>9.5pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Operated by TAROM</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Boeing 737-800 with winglets</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Travel time 2 h 50 m</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox43</rd:DefaultName>
+                    <Top>0.99041in</Top>
+                    <Left>0.075in</Left>
+                    <Height>0.71875in</Height>
+                    <Width>1.45713in</Width>
+                    <ZIndex>7</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox44">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>4:30 </Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>10.5pt</FontSize>
+                              <FontWeight>Bold</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                          <TextRun>
+                            <Value>27 dec. 2023</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Cairo, Egypt</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Cairo International Airport (CAI)</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Terminal 2</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox43</rd:DefaultName>
+                    <Top>0.99041in</Top>
+                    <Left>1.61407in</Left>
+                    <Height>0.71875in</Height>
+                    <Width>1.75713in</Width>
+                    <ZIndex>8</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox45">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>7:20 </Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>10.5pt</FontSize>
+                              <FontWeight>Bold</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                          <TextRun>
+                            <Value>27 dec. 2023</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Bucharest, Romania</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Bucharest Henri Coanda</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>International Airport (OTP)</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox43</rd:DefaultName>
+                    <Top>0.99041in</Top>
+                    <Left>3.48311in</Left>
+                    <Height>0.71875in</Height>
+                    <Width>1.90713in</Width>
+                    <ZIndex>9</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox46">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Economy (F)</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>9.5pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Baggage: 1 pc</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Carry-on baggage: 1 pc, 8 kg</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Fare code: </Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                          <TextRun>
+                            <Value>FRTSVR</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Bold</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox43</rd:DefaultName>
+                    <Top>0.98091in</Top>
+                    <Left>5.50269in</Left>
+                    <Height>0.71875in</Height>
+                    <Width>1.46963in</Width>
+                    <ZIndex>10</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </ReportItems>
+                <KeepTogether>true</KeepTogether>
+                <Top>2.73517in</Top>
+                <Height>1.83416in</Height>
+                <Width>7in</Width>
+                <ZIndex>19</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <BackgroundColor>#ebedf3</BackgroundColor>
+                </Style>
+              </Rectangle>
+              <Rectangle Name="Rectangle5">
+                <ReportItems>
+                  <Image Name="Image9">
+                    <Source>Embedded</Source>
+                    <Value>image0041</Value>
+                    <Sizing>FitProportional</Sizing>
+                    <Top>0.14607in</Top>
+                    <Left>0.08457in</Left>
+                    <Height>0.22029in</Height>
+                    <Width>0.26506in</Width>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                    </Style>
+                  </Image>
+                  <Textbox Name="Textbox47">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>=Parameters!prDestination.Value</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>14.5pt</FontSize>
+                              <FontWeight>Bold</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                          <TextRun>
+                            <Value xml:space="preserve"> </Value>
+                            <Style>
+                              <FontSize>14.5pt</FontSize>
+                            </Style>
+                          </TextRun>
+                          <TextRun>
+                            <Value>→ </Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>14.5pt</FontSize>
+                              <FontWeight>Bold</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                          <TextRun>
+                            <Value>=Parameters!prSource.Value</Value>
+                            <Style>
+                              <FontSize>14.5pt</FontSize>
+                              <FontWeight>Bold</FontWeight>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox42</rd:DefaultName>
+                    <Top>0.10857in</Top>
+                    <Left>0.46379in</Left>
+                    <Height>0.34645in</Height>
+                    <Width>5.16241in</Width>
+                    <ZIndex>1</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox48">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>FLIGHT</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#8793bf</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox6</rd:DefaultName>
+                    <Top>0.71541in</Top>
+                    <Left>0.075in</Left>
+                    <Height>0.1875in</Height>
+                    <Width>0.49211in</Width>
+                    <ZIndex>2</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox49">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>DEPARTURE</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#8793bf</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox6</rd:DefaultName>
+                    <Top>0.71541in</Top>
+                    <Left>1.62495in</Left>
+                    <Height>0.1875in</Height>
+                    <Width>0.99211in</Width>
+                    <ZIndex>3</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox50">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>ARRIVAL</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#8793bf</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox6</rd:DefaultName>
+                    <Top>0.71541in</Top>
+                    <Left>3.48311in</Left>
+                    <Height>0.1875in</Height>
+                    <Width>0.99211in</Width>
+                    <ZIndex>4</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox51">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>FARE</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#8793bf</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox6</rd:DefaultName>
+                    <Top>0.71541in</Top>
+                    <Left>5.51425in</Left>
+                    <Height>0.1875in</Height>
+                    <Width>0.99211in</Width>
+                    <ZIndex>5</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Line Name="Line12">
+                    <Top>0.91007in</Top>
+                    <Left>0.00653in</Left>
+                    <Height>0in</Height>
+                    <Width>6.98694in</Width>
+                    <ZIndex>6</ZIndex>
+                    <Style>
+                      <Border>
+                        <Color>LightGrey</Color>
+                        <Style>Solid</Style>
+                        <Width>1.1pt</Width>
+                      </Border>
+                    </Style>
+                  </Line>
+                  <Textbox Name="Textbox52">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>RO-102</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>9.5pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Operated by TAROM</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Boeing 737-800 with winglets</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Travel time 2 h 50 m</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox43</rd:DefaultName>
+                    <Top>0.99041in</Top>
+                    <Left>0.075in</Left>
+                    <Height>0.71875in</Height>
+                    <Width>1.45713in</Width>
+                    <ZIndex>7</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox53">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>4:30 </Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>10.5pt</FontSize>
+                              <FontWeight>Bold</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                          <TextRun>
+                            <Value>27 dec. 2023</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Cairo, Egypt</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Cairo International Airport (CAI)</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Terminal 2</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox43</rd:DefaultName>
+                    <Top>0.99041in</Top>
+                    <Left>1.61407in</Left>
+                    <Height>0.71875in</Height>
+                    <Width>1.75713in</Width>
+                    <ZIndex>8</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox54">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>7:20 </Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>10.5pt</FontSize>
+                              <FontWeight>Bold</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                          <TextRun>
+                            <Value>27 dec. 2023</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Bucharest, Romania</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Bucharest Henri Coanda</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>International Airport (OTP)</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox43</rd:DefaultName>
+                    <Top>0.99041in</Top>
+                    <Left>3.48311in</Left>
+                    <Height>0.71875in</Height>
+                    <Width>1.90713in</Width>
+                    <ZIndex>9</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox55">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Economy (F)</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>9.5pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Baggage: 1 pc</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Carry-on baggage: 1 pc, 8 kg</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Fare code: </Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                          <TextRun>
+                            <Value>FRTSVR</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Bold</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox43</rd:DefaultName>
+                    <Top>0.98091in</Top>
+                    <Left>5.50269in</Left>
+                    <Height>0.71875in</Height>
+                    <Width>1.46963in</Width>
+                    <ZIndex>10</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </ReportItems>
+                <KeepTogether>true</KeepTogether>
+                <Top>4.73502in</Top>
+                <Left>0.00832in</Left>
+                <Height>1.87847in</Height>
+                <Width>7in</Width>
+                <ZIndex>20</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <BackgroundColor>#ebedf3</BackgroundColor>
+                </Style>
+              </Rectangle>
+              <Rectangle Name="Rectangle6">
+                <ReportItems>
+                  <Textbox Name="Textbox56">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Payment information</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>12pt</FontSize>
+                              <FontWeight>Bold</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox42</rd:DefaultName>
+                    <Top>0.07107in</Top>
+                    <Left>0.1in</Left>
+                    <Height>0.34645in</Height>
+                    <Width>1.7846in</Width>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox57">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Total amount</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox42</rd:DefaultName>
+                    <Top>0.52308in</Top>
+                    <Left>0.1in</Left>
+                    <Height>0.20062in</Height>
+                    <Width>1.7846in</Width>
+                    <ZIndex>1</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox66">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>496.86 $</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>12pt</FontSize>
+                              <FontWeight>Bold</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox66</rd:DefaultName>
+                    <Top>0.82182in</Top>
+                    <Left>0.1in</Left>
+                    <Height>0.25in</Height>
+                    <Width>1in</Width>
+                    <ZIndex>2</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Line Name="Line13">
+                    <Top>0.77674in</Top>
+                    <Left>0.10653in</Left>
+                    <Height>0in</Height>
+                    <Width>5.11194in</Width>
+                    <ZIndex>3</ZIndex>
+                    <Style>
+                      <Border>
+                        <Color>LightGrey</Color>
+                        <Style>Solid</Style>
+                        <Width>1.1pt</Width>
+                      </Border>
+                    </Style>
+                  </Line>
+                  <Textbox Name="Textbox58">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Paid</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>8.5pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox42</rd:DefaultName>
+                    <Top>0.07107in</Top>
+                    <Left>4.71888in</Left>
+                    <Height>0.28797in</Height>
+                    <Width>0.52418in</Width>
+                    <ZIndex>4</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </ReportItems>
+                <KeepTogether>true</KeepTogether>
+                <Top>6.78502in</Top>
+                <Left>0.00832in</Left>
+                <Height>1.10555in</Height>
+                <Width>5.36847in</Width>
+                <ZIndex>21</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <BackgroundColor>#ebedf3</BackgroundColor>
+                </Style>
+              </Rectangle>
+              <Rectangle Name="Rectangle12">
+                <ReportItems>
+                  <Image Name="Image14">
+                    <Source>Embedded</Source>
+                    <Value>image008</Value>
+                    <Sizing>FitProportional</Sizing>
+                    <Top>0.075in</Top>
+                    <Left>0.12315in</Left>
+                    <Height>0.20833in</Height>
+                    <Width>0.19792in</Width>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                    </Style>
+                  </Image>
+                  <Textbox Name="Textbox110">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Support</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>10.5pt</FontSize>
+                              <FontWeight>Bold</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox110</rd:DefaultName>
+                    <Top>0.07154in</Top>
+                    <Left>0.4044in</Left>
+                    <Height>0.25in</Height>
+                    <Width>1in</Width>
+                    <ZIndex>1</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox111">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>+201019664638</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#2d3136</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox111</rd:DefaultName>
+                    <Top>0.38619in</Top>
+                    <Left>0.12315in</Left>
+                    <Height>0.25in</Height>
+                    <Width>1.24526in</Width>
+                    <ZIndex>2</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                  <Textbox Name="Textbox112">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>airsupport@ratehawk.com</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>7pt</FontSize>
+                              <FontWeight>Normal</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#2d3136</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox111</rd:DefaultName>
+                    <Top>0.725in</Top>
+                    <Left>0.10819in</Left>
+                    <Height>0.25in</Height>
+                    <Width>1.24526in</Width>
+                    <ZIndex>3</ZIndex>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </ReportItems>
+                <KeepTogether>true</KeepTogether>
+                <Top>6.78502in</Top>
+                <Left>5.50269in</Left>
+                <Height>1.075in</Height>
+                <Width>1.46165in</Width>
+                <ZIndex>22</ZIndex>
+                <Style>
+                  <Border>
+                    <Color>LightGrey</Color>
+                    <Style>Solid</Style>
+                  </Border>
+                </Style>
+              </Rectangle>
+              <Rectangle Name="Rectangle14">
+                <ReportItems>
+                  <Image Name="Image15">
+                    <Source>Embedded</Source>
+                    <Value>image009</Value>
+                    <Sizing>FitProportional</Sizing>
+                    <Top>0.0625in</Top>
+                    <Left>0.075in</Left>
+                    <Height>0.1375in</Height>
+                    <Width>0.14019in</Width>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                    </Style>
+                  </Image>
+                  <Textbox Name="Textbox113">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Attention!</Value>
+                            <Style>
+                              <FontStyle>Normal</FontStyle>
+                              <FontSize>9pt</FontSize>
+                              <FontWeight>Bold</FontWeight>
+                              <TextDecoration>None</TextDecoration>
+                              <Color>#000000</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox113</rd:DefaultName>
+                    <Top>0.05in</Top>
+                    <Left>0.2675in</Left>
+                    <Height>0.2in</Height>
+                    <Width>1in</Width>
                     <ZIndex>1</ZIndex>
                     <Style>
                       <Border>
@@ -1924,24 +3414,299 @@
                   </Textbox>
                 </ReportItems>
                 <KeepTogether>true</KeepTogether>
-                <Top>2.73042in</Top>
-                <Height>3.17014in</Height>
-                <Width>7in</Width>
-                <ZIndex>19</ZIndex>
+                <Top>8.086in</Top>
+                <Height>0.29792in</Height>
+                <Width>6.9625in</Width>
+                <ZIndex>23</ZIndex>
                 <Style>
                   <Border>
                     <Style>None</Style>
                   </Border>
-                  <BackgroundColor>#ebedf3</BackgroundColor>
+                  <BackgroundColor>#ffcc99</BackgroundColor>
                 </Style>
               </Rectangle>
+              <Textbox Name="Textbox114">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>Departures and Arrivals are in local time for each airport.</Value>
+                        <Style>
+                          <FontStyle>Normal</FontStyle>
+                          <FontSize>6pt</FontSize>
+                          <FontWeight>Bold</FontWeight>
+                          <TextDecoration>None</TextDecoration>
+                          <Color>#000000</Color>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox114</rd:DefaultName>
+                <Top>8.49225in</Top>
+                <Left>0.1125in</Left>
+                <Height>0.16875in</Height>
+                <Width>2.62538in</Width>
+                <ZIndex>24</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Image Name="Image16">
+                <Source>Embedded</Source>
+                <Value>image0111</Value>
+                <Sizing>FitProportional</Sizing>
+                <Top>8.5485in</Top>
+                <Left>0.025in</Left>
+                <Height>0.04167in</Height>
+                <Width>0.05995in</Width>
+                <ZIndex>25</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Image>
+              <Textbox Name="Textbox115">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>The airline may change the flights timetable. </Value>
+                        <Style>
+                          <FontStyle>Normal</FontStyle>
+                          <FontSize>6pt</FontSize>
+                          <FontWeight>Bold</FontWeight>
+                          <TextDecoration>None</TextDecoration>
+                          <Color>#000000</Color>
+                        </Style>
+                      </TextRun>
+                      <TextRun>
+                        <Value>Please be sure to check your flight departure time 24 hours before the flight.</Value>
+                        <Style>
+                          <FontStyle>Normal</FontStyle>
+                          <FontSize>6pt</FontSize>
+                          <FontWeight>Normal</FontWeight>
+                          <TextDecoration>None</TextDecoration>
+                          <Color>#000000</Color>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox114</rd:DefaultName>
+                <Top>8.73987in</Top>
+                <Left>0.1125in</Left>
+                <Height>0.28125in</Height>
+                <Width>3.04721in</Width>
+                <ZIndex>26</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Image Name="Image17">
+                <Source>Embedded</Source>
+                <Value>image0111</Value>
+                <Sizing>FitProportional</Sizing>
+                <Top>8.79612in</Top>
+                <Left>0.0375in</Left>
+                <Height>0.04167in</Height>
+                <Width>0.05995in</Width>
+                <ZIndex>27</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Image>
+              <Textbox Name="Textbox116">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>The quantity of baggage items is the quantity of bags that you can check in as baggage. </Value>
+                        <Style>
+                          <FontStyle>Normal</FontStyle>
+                          <FontSize>6pt</FontSize>
+                          <FontWeight>Bold</FontWeight>
+                          <TextDecoration>None</TextDecoration>
+                          <Color>#000000</Color>
+                        </Style>
+                      </TextRun>
+                      <TextRun>
+                        <Value>You can check the exact weight or dimensions of the baggage allowed on the airline’s website.</Value>
+                        <Style>
+                          <FontStyle>Normal</FontStyle>
+                          <FontSize>6pt</FontSize>
+                          <FontWeight>Normal</FontWeight>
+                          <TextDecoration>None</TextDecoration>
+                          <Color>#000000</Color>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox114</rd:DefaultName>
+                <Top>9.10237in</Top>
+                <Left>0.125in</Left>
+                <Height>0.41875in</Height>
+                <Width>3.03471in</Width>
+                <ZIndex>28</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Image Name="Image18">
+                <Source>Embedded</Source>
+                <Value>image0111</Value>
+                <Sizing>FitProportional</Sizing>
+                <Top>9.15862in</Top>
+                <Left>0.0375in</Left>
+                <Height>0.04167in</Height>
+                <Width>0.05995in</Width>
+                <ZIndex>29</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Image>
+              <Textbox Name="Textbox117">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>Check-in is complete 60 min. before to departure unless the carrier announces otherwise.</Value>
+                        <Style>
+                          <FontStyle>Normal</FontStyle>
+                          <FontSize>6pt</FontSize>
+                          <FontWeight>Normal</FontWeight>
+                          <TextDecoration>None</TextDecoration>
+                          <Color>#000000</Color>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox114</rd:DefaultName>
+                <Top>8.45981in</Top>
+                <Left>3.77846in</Left>
+                <Height>0.29375in</Height>
+                <Width>2.62538in</Width>
+                <ZIndex>30</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Image Name="Image19">
+                <Source>Embedded</Source>
+                <Value>image0111</Value>
+                <Sizing>FitProportional</Sizing>
+                <Top>8.51606in</Top>
+                <Left>3.69096in</Left>
+                <Height>0.04167in</Height>
+                <Width>0.05995in</Width>
+                <ZIndex>31</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Image>
+              <Textbox Name="Textbox118">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>The ticket is only valid when presented with a valid form of ID issued in the name of the person holding the ticket: national document or travel passport.</Value>
+                        <Style>
+                          <FontStyle>Normal</FontStyle>
+                          <FontSize>6pt</FontSize>
+                          <FontWeight>Normal</FontWeight>
+                          <TextDecoration>None</TextDecoration>
+                          <Color>#000000</Color>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>Textbox114</rd:DefaultName>
+                <Top>8.78243in</Top>
+                <Left>3.76596in</Left>
+                <Height>0.41786in</Height>
+                <Width>2.63471in</Width>
+                <ZIndex>32</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
+              <Image Name="Image20">
+                <Source>Embedded</Source>
+                <Value>image0111</Value>
+                <Sizing>FitProportional</Sizing>
+                <Top>8.83868in</Top>
+                <Left>3.69096in</Left>
+                <Height>0.04167in</Height>
+                <Width>0.05995in</Width>
+                <ZIndex>33</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                </Style>
+              </Image>
             </ReportItems>
             <PageBreak>
               <BreakLocation>Start</BreakLocation>
             </PageBreak>
             <KeepTogether>true</KeepTogether>
-            <Top>8.61542in</Top>
-            <Height>8.46875in</Height>
+            <Top>8.36067in</Top>
+            <Height>9.561in</Height>
             <Width>7.01663in</Width>
             <ZIndex>34</ZIndex>
             <Style>
@@ -1951,7 +3716,7 @@
             </Style>
           </Rectangle>
         </ReportItems>
-        <Height>17.08417in</Height>
+        <Height>17.92167in</Height>
         <Style>
           <Border>
             <Style>None</Style>
@@ -2162,6 +3927,21 @@ t41/Xr9l8vP6LZNfDx5rCCVHNwulxTUAANfbE+I1oaxoAAAAAElFTkSuQmCC</ImageData>
       <ImageData>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</ImageData>
+    </EmbeddedImage>
+    <EmbeddedImage Name="image008">
+      <MIMEType>image/png</MIMEType>
+      <ImageData>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</ImageData>
+    </EmbeddedImage>
+    <EmbeddedImage Name="image009">
+      <MIMEType>image/png</MIMEType>
+      <ImageData>iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADyUlEQVRYhdWZz29UVRTHv9/7pr8UJy1GMIo2JkV0pq8zb0rfTEz1ScJC2SiLbsQYE40bAUNoQmIAIWgckroyblzpP2BcGRcm3RgthBFLUUMsLmpcmBgFjLSd6buHBZQfM+/N+zkMfnfvnnPP95OTm7nvvAH+Z2LaBU1zckjU2i4AoM58tbDw7T9p1k8V2CxVTBH9DcFN11fkT7p657lzZ86n5aHSKgRAidaf3YIFAG7WSn2epk9qhcaK9qskS83rJEt5y96Tlk8qR2LYcfqzl1cugHjcKy6QP/qU+2StVrua1CuVDmevrLzjBwsABB+ta2NvGl6JO2yak0PI1BcBbmyXJ8ClPrW2tVar/ZXEL3mHM/VjQbAAQGBwVRuHk9ol6vDYmP2EGPgFYF+YfBE0NJn7+ezcYlzPRB0WgyfDwgIAiR5D9AdJPGN3uFCo2FrJXIwaokVN/vTj99/F8c3E2QQALmWGt8GKiEtgxpMQmCZp3HgkoasAnovjG6vDo6WJ3RT1RdNyfeHsKc/jYVrlVQC9t6+Jlt3n509/GdU78hl2HCdDUe9H3dfqzOr4+HhP5G1RN/x9eeUtALmo+5pFYFvDzbwZdV8k4FzO2QDgSFQTP2nK8RHbzkbZEwlY9S4fAvFwNCx/EXxooIHpSAxhEy3rmUdAHoiO1V4imM5v3/5Y2PzQwGviniBwfzwsf5EcUK7xXtj8UMB5q/y0QF6Lj9VeIvK6WaqYYXJDARPyEcnYl0xgfdKA6GqY3EDgfKH8PMEXk2MFibvMYmVnUFYQsFL0vm47IsoMApjaBvOWvQfEeKpQ7VUYtcqvtEvwBR52nH4lOJE+U6A+rFQqA35BX+DsleX9IIc7w+QvAlv+W9a+858nsGlODgE41DGqAIniu09N
+TDzoFfP8qRKjcZQh5rQm9ZjF8hm/WJRCBAYzDXUYQMvN2vI+HHVO66DqLphvnv9ajoQoVO8BWADoNUS3vHff0eEEcxpEZI2Kb3vGtHwS86YUpVmZn587vb5wRxGtpIqYYxNJvfDDqU+9YqZV/jhOTQB0r18mN+e/m0ditGC/DGBHzMIdE4lnzaL90vqzAoCpqSmDiom+F3RSQp5cn/8UAFz4dSmVOa1TIrBtVas3AEDlcs4GAY52GypYPD5i29mM6l0+CDLxnCYiyizaU34xMtmHUoKb+utygKNW+XcCWxJVu1sSLCmIeN7Z96QoGxWJ2W5zhJUIZhVd7BXBb92GCZTIRZfGPgLAyMgLffc9cGmHUHz/p+imKFy6+u/g7OLi16vdZomsa4ZLCGCPgnXtAAAAAElFTkSuQmCC</ImageData>
+    </EmbeddedImage>
+    <EmbeddedImage Name="image0111">
+      <MIMEType>image/gif</MIMEType>
+      <ImageData>R0lGODlhBQAFAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAQAFAAQAgAAAAAAAAAIGRA6GGulQADs=</ImageData>
     </EmbeddedImage>
   </EmbeddedImages>
   <rd:ReportUnitType>Inch</rd:ReportUnitType>

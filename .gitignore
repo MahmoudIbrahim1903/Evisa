@@ -7,3 +7,7 @@
 /AirReservation/obj
 /AirReservation.Reports/bin/Debug/net6.0
 /AirReservation.Reports/obj
+/AirReservation/.config
+/AirReservation/bin/Release/net6.0
+/AirReservation/Properties/PublishProfiles
+/AirReservation/AirReservation.csproj.user

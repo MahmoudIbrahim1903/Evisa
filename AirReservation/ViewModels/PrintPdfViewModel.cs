@@ -3,6 +3,7 @@
     public class PrintPdfViewModel
     {
         public string Name { get; set; }
+        public string ID { get; set; }
         public string Source { get; set; }
         public string Destination { get; set; }
         public DateTime From { get; set; }

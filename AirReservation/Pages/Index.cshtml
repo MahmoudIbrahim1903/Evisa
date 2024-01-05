@@ -14,14 +14,14 @@
             </div>
             <div class="col-lg-8 align-self-baseline">
                 <p class="text-white-75 mb-5">Evisa offers seamless booking for hotels and flights, simplifying travel planning with convenience and reliability at your fingertips.</p>
-                <a class="btn btn-primary btn-xl" href="#contact">Find Out More</a>
+                <a class="btn btn-primary btn-xl" href="#start">Find Out More</a>
             </div>
         </div>
     </div>
 </header>
 
 <!-- Contact-->
-<section class="page-section" id="contact">
+<section class="page-section" id="start">
     <div class="container px-4 px-lg-5">
         <div class="row gx-4 gx-lg-5 justify-content-center">
             <div class="col-lg-8 col-xl-6 text-center">
@@ -73,15 +73,28 @@
                         </div>
                     </div>
 
-                    <!-- Name input-->
-                    <div class="form-floating mb-3 col-lg-12">
-                        <input asp-for="Name" class="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
-                        <label for="name">Name</label>
-                        <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
+                    <div class="row gx-4 gx-lg-5 justify-content-center mb-3">
+                        <!-- Name input-->
+                        <div class="col-lg-6">
+                            <div class="form-floating">
+                                <input asp-for="Name" class="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
+                                <label for="name">Name</label>
+                                <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
+                            </div>
+                        </div>
+
+                        <!-- ID input-->
+                        <div class="col-lg-6">
+                            <div class="form-floating">
+                                <input asp-for="ID" class="form-control" type="text" placeholder="Enter your ID..." data-sb-validations="required" />
+                                <label for="id">ID</label>
+                                <div class="invalid-feedback" data-sb-feedback="name:required">ID is required.</div>
+                            </div>
+                        </div>
                     </div>
 
                     <div class="d-grid col-lg-6 offset-lg-3 text-center mt-5">
-                        <button type="submit" class="btn btn-primary btn-xl">Print</button>
+                        <button type="submit" class="btn btn-primary btn-xl" target="_blank">Print</button>
                     </div>
                 </form>
             </div>
@@ -97,7 +110,7 @@
                 <h2 class="text-white mt-0">We've got what you need!</h2>
                 <hr class="divider divider-light" />
                 <p class="text-white-75 mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! Choose one of our open source, free to download, and easy to use themes! No strings attached!</p>
-                <a class="btn btn-light btn-xl" href="#contact">Get Started!</a>
+                <a class="btn btn-light btn-xl" href="#start">Get Started!</a>
             </div>
         </div>
     </div>

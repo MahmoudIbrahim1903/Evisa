@@ -57,7 +57,7 @@
                         <!-- From input-->
                         <div class="col-lg-6">
                             <div class="form-floating">
-                                <input asp-for="From" class="form-control dateInput" id="fromDate" type="date" data-sb-validations="required" />
+                                <input asp-for="From" class="form-control dateInput" id="fromDate" type="datetime-local" data-sb-validations="required" />
                                 <label for="fromDate">From</label>
                                 <div class="invalid-feedback" data-sb-feedback="fromDate:required">From date is required.</div>
                             </div>
@@ -66,7 +66,7 @@
                         <!-- To input-->
                         <div class="col-lg-6">
                             <div class="form-floating">
-                                <input asp-for="To" class="form-control dateInput" id="toDate" type="date" data-sb-validations="required" />
+                                <input asp-for="To" class="form-control dateInput" id="toDate" type="datetime-local" data-sb-validations="required" />
                                 <label for="toDate">To</label>
                                 <div class="invalid-feedback" data-sb-feedback="toDate:required">To date is required.</div>
                             </div>

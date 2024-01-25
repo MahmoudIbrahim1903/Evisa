@@ -6,6 +6,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
+        <!-- flatpickr -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Bootstrap Icons-->
@@ -60,6 +62,12 @@
         @* <script src="~/lib/jquery/dist/jquery.min.js"></script>
         <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script> *@
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+        <!--flatpickr-->
+        <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+
+        <script>
+                flatpickr("input[type=datetime-local]", {});
+        </script>
         @await RenderSectionAsync("Scripts", required: false)
     </body>
 </html>
